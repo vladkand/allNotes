@@ -1,1 +1,1 @@
-EMMET - VScode
+ctrl + D > выбирает следюеуче
