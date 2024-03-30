@@ -8,9 +8,9 @@ Notes
   - для ссылок Используя target, вы должны добавлять rel="noopener noreferrer", чтобы избежать эксплуатацию API window.opener.
 * - ## UNSET ==>> отменяет(сбрасывает) значение стилей:
   - .myclass{
-       margn-bottom: 20px;
-         @media screen and (min-width: 1200px) {
-          margin-bottom: unset;
+      - margn-bottom: 20px;
+        - @media screen and (min-width: 1200px) {
+         - margin-bottom: unset;
           }
        }
     
