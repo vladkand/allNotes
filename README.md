@@ -5,10 +5,11 @@ Notes
 
 *  -  ## BUTTON ==>>
    -  button {
-           outline: none;
-           border: none;
-            font-size: 100%;
-            margin: 0;
+           -outline: none;
+           -border: none;
+           -font-size: 100%;
+           -margin: 0;
+           -line-height: normal;
             }
 
 * - ## При position: absolut;
