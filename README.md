@@ -24,5 +24,5 @@ Notes
         - @media screen and (min-width: 1200px) {
          - margin-bottom: unset;
          - }
-       }
+   - }
     
