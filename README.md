@@ -4,13 +4,13 @@ Notes
 * - ## inline-flex применяют для кнопок, иконок декор элементов(ЧТО-Б не занимали весь ряд)  и др.
 
 *  -  ## BUTTON ==>>
-   -  button {#
-           #outline: none;
-           #border: none;
-           #font-size: 100%;
-           #margin: 0;
-           #line-height: normal;
-            #}
+   -  button {
+           -   outline: none;
+           -   border: none;
+           -   font-size: 100%;
+           -   margin: 0;
+           -   line-height: normal;
+            -   }
 
 * - ## При position: absolut;
   -  ==> элемент становится display: block;
