@@ -5,11 +5,11 @@ Notes
 
 *  -  ## BUTTON ==>>
    -  button {
-      -  outline: none;
-      -   border: none;
-      -    font-size: 100%;
-      -    margin: 0;
-      -    }
+           outline: none;
+           border: none;
+            font-size: 100%;
+            margin: 0;
+            }
 
 * - ## При position: absolut;
   -  ==> элемент становится display: block;
