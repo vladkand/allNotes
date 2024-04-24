@@ -10,7 +10,7 @@ Notes
        - font-size: 100%;
        - margin: 0;
        - line-height: normal;
-       - }
+       }
 
 * - ## При position: absolut;
   -  ==> элемент становится display: block;
