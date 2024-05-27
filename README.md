@@ -25,7 +25,7 @@ Notes
          - margin-bottom: unset;
          - }
    - }
-* - ## запись 
+* - ## запись для флекса flex :0 0 500px;
          .class {
             flex: 0 0 33.333%;
             }
