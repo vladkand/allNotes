@@ -25,8 +25,15 @@ Notes
          - margin-bottom: unset;
          - }
    - }
-* - ## запись .class{
+* - ## запись 
+         .class{
             flex: 0 0 33.333%;
             }
+    ===>    
+          .class{
+             flex-grow: 0;
+             flex-shrink: 1;
+             flex-basis: 33.333%;
+             }
  
     
