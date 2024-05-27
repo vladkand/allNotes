@@ -29,7 +29,7 @@ Notes
          .class {
             flex: 0 0 33.333%;
             }
-          >===>>
+          значит === >>
           .class {
              flex-grow: 0;
              flex-shrink: 1;
