@@ -22,6 +22,15 @@
 
 /* * - ## Ссылки: */
 /*   - для ссылок Используя target, вы должны добавлять rel="noopener noreferrer", чтобы избежать эксплуатацию API window.opener. */
+/* <a href="#"
+      class="my-class"
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label="ссылка на линкедин">
+   </a> 
+*/
+     
+/* ========================== */
 
 /* UNSET ==>> отменяет(сбрасывает) значение стилей: */
   .myclass {
